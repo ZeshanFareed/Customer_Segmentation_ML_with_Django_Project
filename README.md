@@ -1,0 +1,2 @@
+# Customer_Segmentation_ML_with_Django_Project
+Machine learning projects through Django
